@@ -7,4 +7,4 @@ Programlayıcı bağlantıları yapıldıktan sonra Arduino programı üzerinden
 Devre_şeması
 <img src='https://github.com/EmrahAKCAL/Arduino_pro_mini/blob/master/arduino.schema.png' with='300'>
 PCB_görünümü
-<img src='https://github.com/EmrahAKCAL/Arduino_pro_mini/commit/f9a3405ce225ba6c3687ee42bbd8bf2948004af5' with='300'>
+<img src='https://github.com/EmrahAKCAL/Arduino_pro_mini/blob/master/arduino%20pro%20mini_pcb.png' with='300'>
