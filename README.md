@@ -9,5 +9,7 @@ Devre_şeması
 
 PCB_Görünüm
 <img src='https://github.com/EmrahAKCAL/Arduino_pro_mini/blob/master/arduino%20pro%20mini_pcb.png' with='300'>
+
+
 3D_Görünüm
 <img src='https://github.com/EmrahAKCAL/Arduino_pro_mini/blob/master/arduino%20pro%20mini_3d.png' with='300'>
